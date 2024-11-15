@@ -1,0 +1,9 @@
+class DecimalToBoinary
+{
+	public static void main ( String [] args);
+	{
+		int num = 17;
+		String binary = "";
+		
+	}
+}
